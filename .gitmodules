@@ -1,0 +1,66 @@
+[submodule "CYCS_LOSP_Project"]
+	path = CYCS_LOSP_Project
+	url = https://github.com/ja-errorpro/CYCS_LOSP_Project
+[submodule "CYCS_LinuxOperatingSystemPractices"]
+	path = CYCS_LinuxOperatingSystemPractices
+	url = https://github.com/ja-errorpro/CYCS_LinuxOperatingSystemPractices
+[submodule "CYCS_DS"]
+	path = CYCS_DS
+	url = https://github.com/ja-errorpro/CYCS_DS
+[submodule "CYCS_OurC_Interpreter"]
+	path = CYCS_OurC_Interpreter
+	url = https://github.com/ja-errorpro/CYCS_OurC_Interpreter
+[submodule "CYCS_OurScheme_Interpreter"]
+	path = CYCS_OurScheme_Interpreter
+	url = https://github.com/ja-errorpro/CYCS_OurScheme_Interpreter
+[submodule "CYCS_GenerativeAIBasic"]
+	path = CYCS_GenerativeAIBasic
+	url = https://github.com/ja-errorpro/CYCS_GenerativeAIBasic
+[submodule "CYCS_SoftwareTesting_RASP"]
+	path = CYCS_SoftwareTesting_RASP
+	url = https://github.com/ja-errorpro/CYCS_SoftwareTesting_RASP
+[submodule "CYCS_OSReplacementAlgorithms"]
+	path = CYCS_OSReplacementAlgorithms
+	url = https://github.com/ja-errorpro/CYCS_OSReplacementAlgorithms
+[submodule "CYCS_Parallelism_and_Concurrency_SortingLab"]
+	path = CYCS_Parallelism_and_Concurrency_SortingLab
+	url = https://github.com/ja-errorpro/CYCS_Parallelism_and_Concurrency_SortingLab.git
+[submodule "CYCS_APUE"]
+	path = CYCS_APUE
+	url = https://github.com/ja-errorpro/CYCS_APUE
+[submodule "CYCS_AlgorithmAnalysis"]
+	path = CYCS_AlgorithmAnalysis
+	url = https://github.com/ja-errorpro/CYCS_AlgorithmAnalysis
+[submodule "CYCS_LogicDesignLab"]
+	path = CYCS_LogicDesignLab
+	url = https://github.com/ja-errorpro/CYCS_LogicDesignLab
+[submodule "CYCS_OperatingSystemLab"]
+	path = CYCS_OperatingSystemLab
+	url = https://github.com/ja-errorpro/CYCS_OperatingSystemLab
+[submodule "CYCS_SimpleWebServer"]
+	path = CYCS_SimpleWebServer
+	url = https://github.com/ja-errorpro/CYCS_SimpleWebServer
+[submodule "CYCS_OOP"]
+	path = CYCS_OOP
+	url = https://github.com/ja-errorpro/CYCS_OOP
+[submodule "CYCS_CircuitLab"]
+	path = CYCS_CircuitLab
+	url = https://github.com/ja-errorpro/CYCS_CircuitLab
+[submodule "CYCS_DatabaseSystem"]
+	path = CYCS_DatabaseSystem
+	url = https://github.com/ja-errorpro/CYCS_DatabaseSystem
+[submodule "CYCS_EngineeringMath"]
+	path = CYCS_EngineeringMath
+	url = https://github.com/ja-errorpro/CYCS_EngineeringMath
+[submodule "CYCS_PythonApplications"]
+	path = CYCS_PythonApplications
+	url = https://github.com/ja-errorpro/CYCS_PythonApplications
+[submodule "CYCS_ComputationalThinking"]
+	path = CYCS_ComputationalThinking
+	url = https://github.com/ja-errorpro/CYCS_ComputationalThinking
+[submodule "CYCS_GeneralPhysics"]
+	path = CYCS_GeneralPhysics
+	url = https://github.com/ja-errorpro/CYCS_GeneralPhysics
+[submodule "CYCS_EmbeddedSystemLab"]
+	path = CYCS_EmbeddedSystemLab
+	url = https://github.com/ja-errorpro/CYCS_EmbeddedSystemLab
