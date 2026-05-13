@@ -64,3 +64,12 @@
 [submodule "CYCS_EmbeddedSystemLab"]
 	path = CYCS_EmbeddedSystemLab
 	url = https://github.com/ja-errorpro/CYCS_EmbeddedSystemLab
+[submodule "CYCS_Computer-Organization"]
+	path = CYCS_Computer-Organization
+	url = https://github.com/ja-errorpro/CYCS_Computer-Organization.git
+[submodule "CYCS_Assembly_FinalProject"]
+	path = CYCS_Assembly_FinalProject
+	url = https://github.com/ja-errorpro/CYCS_Assembly_FinalProject
+[submodule "CYCS_Assembly_MidtermProject"]
+	path = CYCS_Assembly_MidtermProject
+	url = https://github.com/ja-errorpro/CYCS_Assembly_MidtermProject.git
